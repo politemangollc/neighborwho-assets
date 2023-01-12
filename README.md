@@ -1,6 +1,8 @@
 Privacy Policy
 
-This privacy policy applies to Neighbor Who and governs the collection, use, and disclosure of your personal information.
+Last updated: 01/11/2023
+
+This privacy policy applies to NeighborWho and governs the collection, use, and disclosure of your personal information.
 
 Collection of Personal Information
 
