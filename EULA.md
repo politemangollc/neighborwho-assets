@@ -25,8 +25,3 @@ In no event shall Polite Mango LLC, nor its directors, employees, partners, agen
 Contact Us
 
 If you have any questions about this Agreement, please contact us at wenyuanw@yahoo.com
-
-Note:
-
-This is a sample and should be reviewed by legal professional to ensure that it aligns with laws, regulations, standards applicable to your organization and location.
-The sample EULA provided here is not tailored to any specific service, company or country so please do change it according to the detail of your company, the service and the country you are operating in.
