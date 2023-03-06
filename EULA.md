@@ -1,6 +1,6 @@
-End-User License Agreement ("Agreement")
+Terms of Service
 
-Last updated: 01/11/2023
+Last updated: 06/03/2023
 
 Please read this End-User License Agreement ("Agreement") carefully before using the NeighborWho (the "Service"), operated by Polite Mango LLC.
 
@@ -12,7 +12,7 @@ Tolerance for Objectionable Content and Abusive Users
 
 The Service may not be used to upload, post, transmit, or otherwise distribute any content that is or could be considered offensive, abusive, or harmful to any individual or group. This includes, but is not limited to, content that is racist, sexist, or sexually explicit in nature.
 
-We have a zero-tolerance policy for any user who engages in behavior that is considered abusive or in any way harmful to other users. If we receive reports of such behavior, we will take appropriate action, up to and including termination of the offending user's account.
+We have a zero-tolerance policy for any user who engages in behavior that is considered abusive or in any way harmful to other users. If we receive reports of such behavior, we will take appropriate action. Please note that NeighborWho does not allow users to create accounts. If we receive reports of abusive or harmful behavior, we will use the device ID of the offending user to ban them from using our app. Banned users will not be able to access our app using the same device and will need to obtain a new one to regain access. Our goal is to create a safe and welcoming environment for all users, and we take any violation of our policies seriously.
 
 Termination of Service
 
@@ -24,4 +24,4 @@ In no event shall Polite Mango LLC, nor its directors, employees, partners, agen
 
 Contact Us
 
-If you have any questions about this Agreement, please contact us at wenyuanw@yahoo.com
+If you have any questions about this Agreement, please contact us at neighborwhoapp@gmail.com.
