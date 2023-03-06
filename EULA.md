@@ -1,6 +1,6 @@
 Terms of Service
 
-Last updated: 06/03/2023
+Last updated: 03/06/2023
 
 Please read this End-User License Agreement ("Agreement") carefully before using the NeighborWho (the "Service"), operated by Polite Mango LLC.
 
