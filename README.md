@@ -6,11 +6,12 @@ This privacy policy applies to NeighborWho and governs the collection, use, and 
 
 Collection of Personal Information
 
-We may collect personal information such as location and device info when you create an account or contact us for support.
+We collect personal information such as location and device info when you use the app. We do not collect any other information from users.
+This may change in the future.
 
 Use of Personal Information
 
-We use the personal information that we collect to provide and improve our services, to communicate with you, and to respond to your inquiries.
+We use the personal information that we collect to provide and improve our services. 
 
 Disclosure of Personal Information
 
@@ -26,8 +27,8 @@ We take reasonable measures to protect the personal information that we collect 
 
 Changes to this Privacy Policy
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the revised policy on this page.
+We may update this privacy policy from time to time.
 
 Contact Us
 
-If you have any questions or concerns about our privacy policy, please contact us at wenyuanw@yahoo.com.
+If you have any questions or concerns about our privacy policy, please contact us at neighborwhoapp@gmail.com
